@@ -10,7 +10,7 @@
 
 ### Variable declaration
 
-```
+```c
 #include <stdio.h>
 
 int main() {
@@ -35,3 +35,6 @@ int main() {
 এখন কোড রান করে দেখি কি হচ্ছে। আর a এবং b এর বিভিন্ন ভ্যালু চেঞ্জ করে দেখা যাক রেজাল্ট ঠিক আসে কিনা!
 
 ## Understanding Errors
+*TODO*
+
+## User Input
